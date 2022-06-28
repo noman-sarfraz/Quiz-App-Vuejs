@@ -1,4 +1,6 @@
 # quiz-game
+Note: It's not finsished yet.
+
 
 ## Project setup
 ```
